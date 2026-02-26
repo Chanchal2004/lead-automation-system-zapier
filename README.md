@@ -26,27 +26,37 @@ When a user submits a Google Form, the data is automatically stored in Google Sh
 
 ## 📊 Automation Flow
 
-![Zapier Workflow](zapier-workflow.png)
+![Zapier Workflow]
+
+<img width="815" height="756" alt="image" src="https://github.com/user-attachments/assets/a6ab50f6-9014-49d9-aeb5-dbb9214f2089" />
+
 
 ---
 
 ## 📝 Google Form
 
-![Google Form](form.png)
+![Google Form]
+
+<img width="1326" height="955" alt="image" src="https://github.com/user-attachments/assets/add02d20-02ca-4b1f-b551-ab1384fea4aa" />
+
 
 ---
 
 ## 📈 Google Sheet (Response Storage)
 
-![Google Sheet](sheet.png)
+![Google Sheet]
 
-<img width="1337" height="989" alt="image" src="https://github.com/user-attachments/assets/dc93e81a-678e-4731-99e5-a831e5bef900" />
+<img width="1334" height="480" alt="image" src="https://github.com/user-attachments/assets/9973ebb0-3213-42cd-a7f8-6e923466c8a0" />
+
 
 ---
 
 ## 📩 Email Notification (Proof)
 
-![Email Notification](email-proof.png)
+![Email Notification]
+
+<img width="906" height="642" alt="image" src="https://github.com/user-attachments/assets/2144bb86-940a-4076-a636-8efc703aa45f" />
+
 
 ---
 
